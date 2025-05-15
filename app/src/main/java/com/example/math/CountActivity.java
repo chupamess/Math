@@ -26,7 +26,7 @@ public class CountActivity extends AppCompatActivity {
                 new Question(R.drawable.strawberry3, "Сколько клубники на картинке?", new int[] { 4, 2, 3 }, 2),
                 new Question(R.drawable.icecream3, "Сколько рожков мороженого на картинке?", new int[] { 1, 3, 5 }, 1),
                 new Question(R.drawable.dolls, "Сколько игрушек на картинке?", new int[] { 8, 9, 5 }, 0),
-                new Question(R.drawable.baloondoge5, "Сколько игрушек на картинке?", new int[] { 7, 4, 5 }, 2)
+                new Question(R.drawable.baloondoge5, "Сколько шариков на картинке?", new int[] { 7, 4, 5 }, 2)
         };
 
 

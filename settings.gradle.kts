@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Math"
+rootProject.name = "Математика"
 include(":app")

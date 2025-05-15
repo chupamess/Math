@@ -43,7 +43,7 @@
             android:layout_height="150dp"
             android:layout_marginEnd="10dp"
             android:contentDescription="Изображение 1 для сравнения"
-            android:src="@drawable/apples" />
+            android:src="@drawable/number2" />
 
         <ImageView
             android:id="@+id/compareImage3"
@@ -59,7 +59,7 @@
             android:layout_height="150dp"
             android:layout_marginStart="10dp"
             android:contentDescription="Изображение 2 для сравнения"
-            android:src="@drawable/numbers12" />
+            android:src="@drawable/number5" />
 
     </LinearLayout>
 
